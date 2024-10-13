@@ -47,7 +47,7 @@ To run this app locally, follow these steps:
 3. **Install dependencies:**
 
    ```bash
-  flutter pub get
+      flutter pub get
 
 
 4. **Run the app**
